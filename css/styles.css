@@ -325,8 +325,6 @@ ul {
 .team-soc-items:not(:last-child) {
   margin-right: 10px;
 }
-
-
 .team-soc-link {
   display: flex;
   justify-content: center;
