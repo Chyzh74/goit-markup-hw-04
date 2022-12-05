@@ -333,15 +333,9 @@ ul {
   align-items: center;
   border-radius: 50%;
   
-  color: #AFB1B8;
+  fill: #AFB1B8;
   width: 100%;
   height: 100%;
-}
-.team-soc-icons {
-  fill: currentColor;
-}
-.team-soc-icons:hover {
-  fill: var(--main-color);
 }
 
 .team-soc-link:hover {
